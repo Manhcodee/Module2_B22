@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/B22_TH2_Facede/B22_TH2_Facede.iml" filepath="$PROJECT_DIR$/B22_TH2_Facede/B22_TH2_Facede.iml" />
       <module fileurl="file://$PROJECT_DIR$/B22_TH_Adapter/B22_TH_Adapter.iml" filepath="$PROJECT_DIR$/B22_TH_Adapter/B22_TH_Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Bài 22.iml" filepath="$PROJECT_DIR$/.idea/Bài 22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai22_BT1_ProxyPattern/bai22_BT1_ProxyPattern.iml" filepath="$PROJECT_DIR$/bai22_BT1_ProxyPattern/bai22_BT1_ProxyPattern.iml" />
     </modules>
   </component>
 </project>
